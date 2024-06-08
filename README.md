@@ -3,6 +3,8 @@ Welcome to DarkWebEye. Explore the unseen depths of the internet with DarkWebEye
 
 ***Your Gateway to the Hidden Web***
 
+![Logo DarkWebEye](images/logo-darkwebeye.png)
+
 # DarkWebEye: 
 
 > ### Where Curiosity Meets the Hidden - Journey Through the Dark - Seeking Secrets in the Shadows
@@ -57,8 +59,9 @@ To keep everything organized, create a dedicated folder for DarkWebEye. This wil
 /DarkWebEye
 |-- /env # Virtual environment
 |-- darkwebeye.py # The main script
-|-- results # 
+|-- results #
 ```
+![Install DarkWebEye](images/install.png)
 
 ### Steps to Run
 
@@ -91,6 +94,8 @@ Before using DarkWebEye, following some safety measures to protect your privacy 
 - Follow Good Practices: Do not share personal information and avoid clicking on suspicious links.
 - For more detailed safety precautions, here on [Hackingpassion.com](https://hackingpassion.com) you can find more info.
 
+![DarkWebEye](images/include-file-format.png)
+
 ## About the Author
 
 Hi there! I'm Jolanda de Koff, a passionate cybersecurity expert, Linux specialist, and ethical hacker. Over the years, I've dedicated myself to sharing knowledge and tools with the community through my websites, [HackingPassion.com](https://hackingpassion.com), [Bullseye0.com](https://bullseye0.com), and [JolandaDeKoff.com](https://jolandadekoff.com).
@@ -114,4 +119,4 @@ Odysee: [Hacking Passion](https://odysee.com/$/invite/@hackingpassion:9)
 
 > Join the journey through the shadows of the dark web with DarkWebEye and discover the hidden secrets waiting to be uncovered.
 
-
+![DarkWebEye](images/output.png)
