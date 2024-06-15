@@ -5,7 +5,7 @@ Welcome to DarkWebEye. Explore the unseen depths of the internet with DarkWebEye
 
 ![Logo DarkWebEye](images/logo-darkwebeye.png)
 
-[Here you can read the article on HackingPassion.com](https://hackingpassion.com/darkwebeye/)
+[Here you can read the article + Video on HackingPassion.com](https://hackingpassion.com/darkwebeye/)
 
 # DarkWebEye: 
 
