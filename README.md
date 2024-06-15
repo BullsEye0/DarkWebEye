@@ -32,12 +32,12 @@ DarkWebEye begins by ensuring you have all the required modules installed in a v
 
 1. **Setup**:
     - Ensure you have Python 3 installed.
-    - Clone or download the DarkWebEye script from [GitHub](https://github.com/BullsEye0).
+    - Clone or download the DarkWebEye script from [GitHub](https://github.com/BullsEye0/darkWebEye).
 
 2. **Running the Script**:
     - Open your terminal.
     - Navigate to the folder containing the DarkWebEye script.
-    - Execute the script by running `python darkwebeye.py`.
+    - Execute the script by running `python darkWebEye.py`.
 
 3. **Using DarkWebEye**:
     - Enter your search query when prompted.
@@ -69,7 +69,7 @@ To keep everything organized, create a dedicated folder for DarkWebEye. This wil
 1. Clone the Repository
 
 ```
-git clone https://github.com/BullsEye0/DarkWebEye.git && cd DarkWebEye
+git clone https://github.com/BullsEye0/darkWebEye.git && cd darkWebEye
 ```
 2. Run the Script
 ```
@@ -79,14 +79,14 @@ python3 darkWebEye.py
 
 ## Follow Prompts
 
-The tool will guide you through creating a virtual environment and installing the necessary modules.
+The tool will guide you through creating a **virtual environment** and installing the necessary modules.
 Enter your search query and select a time filter.
 Save Results
 
 Choose a format to save the results for future reference.
 
 ## Safety Precautions
-Before using DarkWebEye, following some safety measures to protect your privacy and security is crucial.
+Before using darkWebEye, following some safety measures to protect your privacy and security is crucial.
 
 - Use a VPN: Ensure you are connected to a reliable VPN to mask your IP address.
 - Run in a Virtual Machine: Using a virtual machine can add an extra layer of security.
@@ -117,6 +117,8 @@ Facebook Page: [Ethical Hack Group](https://www.facebook.com/ethical.hack.group)
 
 Odysee: [Hacking Passion](https://odysee.com/$/invite/@hackingpassion:9)
 
-> Join the journey through the shadows of the dark web with DarkWebEye and discover the hidden secrets waiting to be uncovered.
+Linkedin: [Linkedin](https://www.linkedin.com/in/jolandadekoff/)
 
-![DarkWebEye](images/output.png)
+> Join the journey through the shadows of the dark web with darkWebEye and discover the hidden secrets waiting to be uncovered.
+
+![darkWebEye](images/output.png)
