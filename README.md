@@ -94,9 +94,7 @@ Before using darkWebEye, following some safety measures to protect your privacy 
 - Follow Good Practices: Do not share personal information and avoid clicking on suspicious links.
 - For more detailed safety precautions, here on [Hackingpassion.com](https://hackingpassion.com) you can find more info.
 
-
 <iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@hackingpassion:9/darkWebEye:a?r=ATrtLheniwT9fg2d9GsyfTGaYUtpMfbK" allowfullscreen></iframe>
-
 
 
 ## About the Author
