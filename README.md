@@ -94,7 +94,10 @@ Before using darkWebEye, following some safety measures to protect your privacy 
 - Follow Good Practices: Do not share personal information and avoid clicking on suspicious links.
 - For more detailed safety precautions, here on [Hackingpassion.com](https://hackingpassion.com) you can find more info.
 
-![DarkWebEye](images/include-file-format.png)
+
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@hackingpassion:9/darkWebEye:a?r=ATrtLheniwT9fg2d9GsyfTGaYUtpMfbK" allowfullscreen></iframe>
+
+
 
 ## About the Author
 
@@ -103,6 +106,8 @@ Hi there! I'm Jolanda de Koff, a passionate cybersecurity expert, Linux speciali
 ### My Mission
 
 I believe that knowledge should be accessible to all. My goal is to educate and empower individuals to explore cybersecurity responsibly. Through my tutorials, I aim to demystify the complexities of ethical hacking and provide practical insights that you can apply in real-world scenarios.
+
+![DarkWebEye](images/include-file-format.png)
 
 
 ## Stay Connected
