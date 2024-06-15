@@ -5,6 +5,8 @@ Welcome to DarkWebEye. Explore the unseen depths of the internet with DarkWebEye
 
 ![Logo DarkWebEye](images/logo-darkwebeye.png)
 
+[Here you can read the article on HackingPassion.com]
+
 # DarkWebEye: 
 
 > ### Where Curiosity Meets the Hidden - Journey Through the Dark - Seeking Secrets in the Shadows
