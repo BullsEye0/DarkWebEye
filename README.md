@@ -55,7 +55,7 @@ Explore the dark web confidently and discover the hidden secrets waiting to be u
 
 ## Folder Structure
 
-To keep everything organized, create a dedicated folder for DarkWebEye. This will house the script, virtual environment, and any search results. Here’s a simple structure you can follow:
+To keep everything organized, create a dedicated folder for DarkWebEye. This will house the script, virtual environment, and any search results. Here's a simple structure you can follow:
 
 ```
 /DarkWebEye
@@ -65,19 +65,24 @@ To keep everything organized, create a dedicated folder for DarkWebEye. This wil
 ```
 ![Install DarkWebEye](images/install.png)
 
-### Steps to Run
+****
 
+## Installation Steps:
 
-1. Clone the Repository
+1. **Clone the repository:**
+```bash
+git clone https://github.com/BullsEye0/darkWebEye.git
+cd darkWebEye
+```
 
-```
-git clone https://github.com/BullsEye0/darkWebEye.git && cd darkWebEye
-```
-2. Run the Script
-```
+2. **Run the script:**
+```bash
 python3 darkWebEye.py
-``` 
+```
+
 *And that's it!*
+
+****
 
 ## Follow Prompts
 
@@ -86,6 +91,8 @@ Enter your search query and select a time filter.
 Save Results
 
 Choose a format to save the results for future reference.
+
+****
 
 ## Safety Precautions
 Before using darkWebEye, following some safety measures to protect your privacy and security is crucial.
@@ -96,10 +103,23 @@ Before using darkWebEye, following some safety measures to protect your privacy 
 - Follow Good Practices: Do not share personal information and avoid clicking on suspicious links.
 - For more detailed safety precautions, here on [Hackingpassion.com](https://hackingpassion.com) you can find more info.
 
+****
+
 ## Video
 
 [Here on Odysee, you can see the video: ](https://odysee.com/$/embed/@hackingpassion:9/darkWebEye:a?r=ATrtLheniwT9fg2d9GsyfTGaYUtpMfbK)
 
+****
+
+## I also want to make you aware that:
+* This was written for educational purposes and pentest only.
+* The author will not be responsible for any damage ..!
+* The author of this tool is not responsible for any misuse of the information.
+* You will not misuse the information to gain unauthorized access.
+* This information shall only be used to expand knowledge and not to cause malicious or damaging attacks.
+* Performing any hacks without written permission is illegal ..!
+
+****
 
 ## About the Author
 
@@ -111,21 +131,61 @@ I believe that knowledge should be accessible to all. My goal is to educate and 
 
 ![DarkWebEye](images/include-file-format.png)
 
+****
 
 ## Stay Connected
 
 I'm all about connecting with like-minded individuals and fostering a community of learning and growth. Here are some ways you can connect with me and stay updated:
 
-Website: [HackingPassion.com](https://hackingpassion.com) and [Jolanda de Koff](https://jolandadekoff.com)
+* Website: [HackingPassion.com](https://hackingpassion.com) and [Jolanda de Koff](https://jolandadekoff.com)
 
-GitHub: [BullsEye0](https://github.com/BullsEye0)
+* GitHub: [BullsEye0](https://github.com/BullsEye0)
 
-Facebook Page: [Ethical Hack Group](https://www.facebook.com/ethical.hack.group)
+* [Facebook Personal](https://www.facebook.com/profile.php?id=100069546190609)
 
-Odysee: [Hacking Passion](https://odysee.com/$/invite/@hackingpassion:9)
+* [Facebook Page](https://www.facebook.com/ethical.hack.group)
 
-Linkedin: [Linkedin](https://www.linkedin.com/in/jolandadekoff/)
+* [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
+
+* [Odysee](https://odysee.com/$/invite/@hackingpassion:9)
+
+* [Youtube](https://www.youtube.com/@HackingPassion)
+
+* [Linkedin](https://www.linkedin.com/in/jolandadekoff/)
 
 > Join the journey through the shadows of the dark web with darkWebEye and discover the hidden secrets waiting to be uncovered.
 
 ![darkWebEye](images/output.png)
+
+***
+
+## 💻 Support this project
+
+If you find this tool useful, consider supporting my work:  
+[❤️ Sponsor BullsEye](https://github.com/sponsors/BullsEye0)
+
+Get the full hands-on course:  
+**[Ethical Hacking Complete Course – Zero to Expert](https://www.udemy.com/course/ethical-hacking-complete-course-zero-to-expert/?couponCode=BULLSEYE)**
+
+(supports me directly as your instructor!)
+
+Professional penetration testing. Zero to Expert.  
+✅ Kali Linux + Parrot OS  
+✅ Real-world hacking scenarios  
+✅ All major tools & techniques  
+✅ Beginner-friendly  
+
+HACKING IS NOT A HOBBY, BUT A WAY OF LIFE 🎯
+
+***
+
+## Donate
+
+I have developed DarkWebEye because I am passionate about this. 
+Donations are one of the many ways to support what I do.
+
+[Donate](https://hackingpassion.com/donate/)
+
+BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
