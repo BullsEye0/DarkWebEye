@@ -111,16 +111,6 @@ Before using darkWebEye, following some safety measures to protect your privacy 
 
 ****
 
-## I also want to make you aware that:
-* This was written for educational purposes and pentest only.
-* The author will not be responsible for any damage ..!
-* The author of this tool is not responsible for any misuse of the information.
-* You will not misuse the information to gain unauthorized access.
-* This information shall only be used to expand knowledge and not to cause malicious or damaging attacks.
-* Performing any hacks without written permission is illegal ..!
-
-****
-
 ## About the Author
 
 Hi there! I'm Jolanda de Koff, a passionate cybersecurity expert, Linux specialist, and ethical hacker. Over the years, I've dedicated myself to sharing knowledge and tools with the community through my websites, [HackingPassion.com](https://hackingpassion.com), [Bullseye0.com](https://bullseye0.com), and [JolandaDeKoff.com](https://jolandadekoff.com).
