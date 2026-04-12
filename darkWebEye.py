@@ -267,7 +267,7 @@ def search_ahmia(query, time_filter):
 
     try:
         start_time = time.time()
-        response = requests.get(search_url)
+        response = requests.get(search_url, timeout=30)
         elapsed_time = time.time() - start_time
 
         if response.status_code == 200:
